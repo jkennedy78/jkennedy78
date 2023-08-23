@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkennedy78
 - 👀 I’m interested in quality assurance via specflow. Validating APIand data feeds
-- 🌱 I’m currently learning using C# on VS code
+- 🌱 I’m currently learning C# on VS 22
 - 💞️ I’m looking to collaborate on testing methods and best practises. 
 - 📫 How to reach me ...
 
